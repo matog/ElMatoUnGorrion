@@ -16,3 +16,5 @@ Se necesita un archivo _.env_ con la siguiente información (entre ''):
     CONSUMER_SECRET = ''
     ACCESS_TOKEN = ''
     ACCESS_TOKEN_SECRET  = ''
+
+![image](https://user-images.githubusercontent.com/660448/109560254-6e6bdb00-7aba-11eb-940b-a1922b4bd803.png)
