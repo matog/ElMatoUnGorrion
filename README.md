@@ -1,8 +1,8 @@
 ### Él Mató un Gorrión
 
-Es un bot para twitter creado en python, utilizando la librería tweepy. Mezcla letras al azar de Él Mató un Policia Motorizado y Peligrosos Gorriones, y las publica en twitter.
+Bot para Twitter desarrollado en python utilizando la librería tweepy. Mezcla letras al azar de Él Mató un Policia Motorizado y Peligrosos Gorriones, y las publica en twitter.
 
-Para ver cómo funciona, visitar la cuenta de twitter: [ElMatoUnGorrion](https://twitter.com/ElMatoUnGorrion)
+Demo: [ElMatoUnGorrion](https://twitter.com/ElMatoUnGorrion)
 
 #### Archivos
 
