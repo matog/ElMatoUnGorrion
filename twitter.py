@@ -17,7 +17,7 @@ access_token_secret = os.getenv('ACCESS_TOKEN_SECRET')
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token,access_token_secret)
 
-api = tweepy.API(auth, wait_on_rate_limit = True, wait_on_rate_limit_notify = True)
+api = tweepy.API(auth, wait_on_rate_limit = True)
 
 ### TEST
 # data = api.me()
